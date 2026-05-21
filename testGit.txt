@@ -1,0 +1,5 @@
+Ceci est un fichier de test créé par Claude.
+Date : 19 mai 2026
+Objectif : Tester l'intégration GitHub avec Webcreatys
+
+Test réussi ! Ce fichier est prêt à être poussé sur le repository webcreatys/test.
